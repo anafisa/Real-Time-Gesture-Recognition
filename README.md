@@ -3,7 +3,7 @@ One of the main tasks of computer vision is image classification. Image classifi
 
 Gesture recognition is rather challenging task as hands always are in motion, change angles and overlap each other, so the natural perception of hands in real time is a difficult task for computer vision.
 
-The aim of the course work is to create machine learning model that recognizes and classifies hand gestures in real time. To achieve this goal, it was necessary to solve a number of tasks:
+The aim of this work is to create machine learning model that recognizes and classifies hand gestures in real time. To achieve this goal, it was necessary to solve a number of tasks:
 1. Study and analyze existing approaches to the problem of gesture recognition;
 2. Analyze and prepare initial data for training models;
 3. Apply various methods of image classification to solve the problem;
